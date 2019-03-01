@@ -1,5 +1,4 @@
 ; PIC18F87K22 Configuration Bit Settings
-
 ; Assembly source line config statements
 
 #include "p18f87k22.inc"
