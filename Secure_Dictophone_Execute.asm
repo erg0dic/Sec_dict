@@ -193,7 +193,7 @@ read	;call	read_sequence
 ;	movlw	0xAA
 	;call	LCD_Write_Hex		    ; debugging read sequence in external_memory.asm by displaying on LCD
 	
-;	call	DAC_write		    ; have used Multiplication to display decimal adc voltages on LCD during debugging
+	call	DAC_write		    ; have used Multiplication to display decimal adc voltages on LCD during debugging
 	
 	
 ;	movlw	.1
